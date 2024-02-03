@@ -12,9 +12,6 @@ public class Class01 {
         //versiyon 3
         System.out.println(x/y);
 
-        //versiyon 4
-        System.out.println("olmöaması gereken versiyon");
-
 
     }
 }
